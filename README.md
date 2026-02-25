@@ -1,1 +1,1 @@
-# UseCase8PalindromeCheckerApp.java
+# PalindromeCheckerApp
